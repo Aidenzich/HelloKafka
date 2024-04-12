@@ -1,0 +1,5 @@
+# connect/
+*.zip
+# confluentinc-kafka-connect-jdbc-10.5.1/
+**/.DS_Store
+*.tar
